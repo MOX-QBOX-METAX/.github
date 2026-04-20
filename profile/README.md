@@ -14,7 +14,7 @@ https://discord.gg/5suudtjuzs
 
 <p align="center">
   <img src="assets/img1.png" width="700"/>
-  <img src="assets/img1.png" width="700"/>
+  <img src="assets/img2.png" width="700"/>
 </p>
 
 <p align="center">
