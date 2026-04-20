@@ -11,7 +11,8 @@ Entre no nosso Discord!
 https://discord.gg/5suudtjuzs
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="jWlusg0"><a href="https://imgur.com/jWlusg0">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-https://i.imgur.com/jWlusg0.png
-https://imgur.com/jWlusg0
-https://imgur.com/jWlusg0
+![MOX Logo](assets/logo.png)
+
+<p align="center">
+  <img src="assets/logo.png" width="200"/>
+</p>
