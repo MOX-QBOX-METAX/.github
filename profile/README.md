@@ -13,8 +13,8 @@ https://discord.gg/5suudtjuzs
 <h2 align="center">🔥 Preview do MOX</h2>
 
 <p align="center">
-  <img src="assets/img1.png" width="700"/>
-  <img src="assets/img2.png" width="700"/>
+  <img src="assets/img1.png" width="1000"/>
+  <img src="assets/img2.png" width="1000"/>
 </p>
 
 <p align="center">
