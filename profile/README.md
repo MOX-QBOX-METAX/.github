@@ -11,8 +11,4 @@ Entre no nosso Discord!
 https://discord.gg/5suudtjuzs
 
 
-![MOX Logo](assets/logo.png)
-
-<p align="center">
-  <img src="assets/logo.png" width="200"/>
-</p>
+![MOX Logo](https://i.imgur.com/jWlusg0.png)
