@@ -14,7 +14,7 @@ https://discord.gg/5suudtjuzs
 
 <p align="center">
   <img src="assets/img1.png" width="500"/>
-  <img src="assets/logo-mox.png" width="200"/>
+  <img src="assets/img1.png" width="500"/>
   <img src="assets/logo-mox.png" width="200"/>
 </p>
 
