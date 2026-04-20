@@ -1,4 +1,3 @@
-# .MOX
 # MOX Framework  
 # Comunidade brasileira focada em QBOX. 🔥 O que oferecemos?
 - Base otimizada BR 
