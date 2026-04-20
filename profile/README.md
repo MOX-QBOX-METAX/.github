@@ -18,8 +18,10 @@ https://discord.gg/5suudtjuzs
 </p>
 
 <p align="center">
-  <img src="assets/img3.png" width="700"/>
-  <img src="assets/img4.png" width="700"/>
+  <img src="assets/img3.png" width="200"/>
+  <img src="assets/img4.png" width="200"/>
+  <img src="assets/img4.png" width="200"/>
+  <img src="assets/img4.png" width="200"/>
 </p>
 
 
