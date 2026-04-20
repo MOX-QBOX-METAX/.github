@@ -1,8 +1,9 @@
 # MOX Framework  
 # Comunidade brasileira focada em QBOX. 🔥 O que oferecemos?
-- Base otimizada para o brasil :flag_br: 
+- Usamos o framework QBOX, o mais leve otimizado do mundo.
+- Base convertida por nossa equipe para o padrão brasileiro 
 - Scripts customizados 
-- Suporte e atualizações  
+- Suporte e atualizações
 
 💬 Comunidade 
 Entre no nosso Discord! 
